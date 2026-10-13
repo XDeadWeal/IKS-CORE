@@ -1,0 +1,15 @@
+[package]
+name = "iks_compiler"
+version = "0.1.0"
+edition = "2024"
+description = "Compiler for the IKS programming language (translates to C, links with GCC)"
+
+[lib]
+name = "iks_compiler"
+path = "src/lib.rs"
+
+[[bin]]
+name = "ik"
+path = "src/main.rs"
+
+[dependencies]
