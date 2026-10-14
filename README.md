@@ -1,0 +1,1 @@
+«High-performance low-level graphics compiler written from scratch in Rust. Supports 6 backends (Vulkan, DX12, OpenGL, DX11, DX10, DX9, GLES3) with built-in NPU detection and cross-compilation layer.»
