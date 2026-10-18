@@ -1,14 +1,66 @@
 © 2026 XDeadWeal (IKS-CORE). All Rights Reserved.
 
-This source code is public for educational and verification purposes only ("Source-Available").
+IKS-CORE Source-Available License v1.1
+
+This source code is made public for educational and verification purposes only
+("Source-Available"). It is NOT open-source software. No rights are granted
+except those expressly stated below.
 
 PERMITTED USES:
-1. You are allowed to review, study, and compile this source code for personal and educational game development.
-2. You are allowed to use the compiled binaries (ik.exe) to create and distribute your own games.
+
+1. You may review, study, and compile the unmodified source code solely for
+   personal and educational game development.
+
+2. You may use the compiled binaries (e.g., ik.exe) produced from the unmodified
+   source code to create and distribute your own games.
+
+3. Compiling the unmodified source code as described above does not, by itself,
+   constitute modification of the source code.
 
 STRICTLY PROHIBITED USES:
-1. You are NOT allowed to copy, modify, republish, or redistribute this source code, partially or fully, under any other name or brand.
-2. You are NOT allowed to rename this compiler and pass it off as your own product.
-3. Commercial redistribution of the compiler core is strictly prohibited without explicit written permission from the author (XDeadWeal).
 
-Any unauthorized mirrors, forks, or copies of this repository will be immediately subject to a DMCA Takedown notice and removed by GitHub administration.
+1. You may NOT copy, modify, adapt, translate, patch, alter, or create derivative
+   works of this source code, in whole or in part.
+
+2. You may NOT create, publish, host, or maintain any fork, mirror, clone, or
+   copy of this repository or its source code on GitHub or any other platform.
+
+3. You may NOT republish, redistribute, sublicense, sell, rent, lease, or
+   otherwise make this source code available to any third party.
+
+4. You may NOT rename this compiler, rebrand it, or pass it off as your own
+   product, in whole or in part.
+
+5. You may NOT use the name "IKS-CORE", "XDeadWeal", or any confusingly similar
+   name or branding without prior written permission from the author.
+
+6. Commercial redistribution of the compiler core, source code, or any derivative
+   thereof is strictly prohibited without explicit prior written permission from
+   the author (XDeadWeal).
+
+7. Contributions, pull requests, and patches are not accepted unless expressly
+   agreed in writing by the author in advance. Any unsolicited contribution is
+   considered unauthorized and does not grant any rights to the contributor.
+
+TERMINATION:
+
+Any violation of this license immediately terminates all rights granted to you
+under this license. Upon termination, you must stop using the source code and
+delete all copies in your possession or control.
+
+ENFORCEMENT:
+
+Any unauthorized fork, mirror, copy, derivative work, or redistribution of this
+repository is unauthorized and infringing. Such repositories may be reported to
+GitHub administration and are subject to DMCA takedown notices and other
+available remedies.
+
+NO WARRANTY:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE
+SOFTWARE.
+
+Contact: XDeadWeal
